@@ -116,7 +116,7 @@ thiru.html
 ```
 
 ## OUTPUT
-![alt text](<venkat/Screenshot (15).png>)
+![Screenshot (15)](https://github.com/user-attachments/assets/e121ccb4-6e20-4522-97d5-3c5cdd1f94e4)
 ![alt text](<venkat/Screenshot (16).png>)
 ![alt text](<venkat/Screenshot (17).png>)
 ![alt text](<venkat/Screenshot (18).png>)
